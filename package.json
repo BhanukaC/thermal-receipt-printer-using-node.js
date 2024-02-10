@@ -1,0 +1,16 @@
+{
+  "name": "printbill",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@dodoga/escpos-core": "^0.0.5",
+    "@node-escpos/core": "^0.5.0",
+    "@node-escpos/usb-adapter": "^0.3.1"
+  }
+}
